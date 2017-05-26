@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fajar Sejuta Pemuda</string>
+    <string name="alarm_clock">Alarm Clock</string>
+
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="alarm_set">Set Alarm</string>
+    <string name="alarm_cancel">Cancel Alarm</string>
+
+    <string name="alarm_info">ALARM IS SET AT </string>
+</resources>
